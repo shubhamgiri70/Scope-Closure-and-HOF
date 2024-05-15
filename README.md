@@ -1,1 +1,0 @@
-# Scope-Closure-and-HOF
