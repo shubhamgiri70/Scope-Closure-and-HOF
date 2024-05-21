@@ -48,3 +48,5 @@ function filter(arr, cb) {
 
 filter(["Sam", "Jon", "Arya"], (name) => name.startsWith("S")); // ['Sam']
 ```
+
+
